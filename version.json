@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v5/SmartVideoPlayer.apk",
-    "versionCode":  5,
-    "versionName":  "1.0.4",
-    "notes":  "Videolink lässt sich leeren. Links ohne Dateiendung werden auch erkannt, wenn der Server keinen Dateityp nennt oder eine Bereichsabfrage ablehnt."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v6/SmartVideoPlayer.apk",
+    "versionCode":  6,
+    "versionName":  "1.0.5",
+    "notes":  "Rutube und ARD-Mediathek öffnen den offiziellen Player des einen Videos. Beim Einfügen wird nur der Link aus dem Text genommen."
 }
