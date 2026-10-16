@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v6/SmartVideoPlayer.apk",
-    "versionCode":  6,
-    "versionName":  "1.0.5",
-    "notes":  "Rutube und ARD-Mediathek öffnen den offiziellen Player des einen Videos. Beim Einfügen wird nur der Link aus dem Text genommen."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v7/SmartVideoPlayer.apk",
+    "versionCode":  7,
+    "versionName":  "1.0.6",
+    "notes":  "Ein Video-Link öffnet nur dieses Video. Übersichtsseiten von Rutube und der ARD-Mediathek werden nicht mehr als ganze Seite geladen."
 }
