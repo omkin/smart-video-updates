@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v9/SmartVideoPlayer.apk",
-    "versionCode":  9,
-    "versionName":  "1.0.8",
-    "notes":  "Der Leeren-Button ist ein kleines rotes Kreuz. Die W3C-Videoseite spielt die Datei direkt. Ein ARD-Beitrag, den die Mediathek nicht zum Einbetten freigibt, zeigt das an statt eines leeren Players."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v10/SmartVideoPlayer.apk",
+    "versionCode":  10,
+    "versionName":  "1.0.9",
+    "notes":  "Mehrere Downloads bleiben in einer Warteschlange. MP4, WebM, MKV, AVI, FLV, MPEG-TS, HLS und DASH werden als eigene Datei geladen. Vorher wird kein Ein-Byte-Test mehr geschickt."
 }
