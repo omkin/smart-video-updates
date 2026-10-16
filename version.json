@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v8/SmartVideoPlayer.apk",
-    "versionCode":  8,
-    "versionName":  "1.0.7",
-    "notes":  "Ein Kurzlink, der auf ein einzelnes ARD-Video führt, öffnet den offiziellen Player. Die ganze Mediathekseite mit blob-Adressen bleibt geschlossen."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v9/SmartVideoPlayer.apk",
+    "versionCode":  9,
+    "versionName":  "1.0.8",
+    "notes":  "Der Leeren-Button ist ein kleines rotes Kreuz. Die W3C-Videoseite spielt die Datei direkt. Ein ARD-Beitrag, den die Mediathek nicht zum Einbetten freigibt, zeigt das an statt eines leeren Players."
 }
