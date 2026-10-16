@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v2/SmartVideoPlayer.apk",
-    "versionCode":  2,
-    "versionName":  "1.0.1",
-    "notes":  "Erkennung ohne Dateiendung, Diagnose und Browser-Beobachtung."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v3/SmartVideoPlayer.apk",
+    "versionCode":  3,
+    "versionName":  "1.0.2",
+    "notes":  "Fehlgeschlagene Downloads zeigen den echten Fehler und lassen sich neu starten."
 }
