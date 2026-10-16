@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v4/SmartVideoPlayer.apk",
-    "versionCode":  4,
-    "versionName":  "1.0.3",
-    "notes":  "Links ohne Dateiendung werden als ganzer Abruf geladen, nicht mit einer übergroßen Bereichsabfrage."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/smartvideo-v5/SmartVideoPlayer.apk",
+    "versionCode":  5,
+    "versionName":  "1.0.4",
+    "notes":  "Videolink lässt sich leeren. Links ohne Dateiendung werden auch erkannt, wenn der Server keinen Dateityp nennt oder eine Bereichsabfrage ablehnt."
 }
